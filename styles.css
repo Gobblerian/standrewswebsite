@@ -18,7 +18,8 @@ body {
 }
 
 nav {
-    background-color: #c51718;
+    background-color: white; /* Change the background color to white */
+    border-bottom: 2px solid #c51718; /* Add a border for distinction */
 }
 
 nav ul {
@@ -33,7 +34,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: #c51718; /* Change link color to match the theme */
     text-decoration: none;
 }
 
